@@ -1,4 +1,4 @@
-# Emily :Em" Nightrose (she/her)
+# Emily "Em" Nightrose (she/her)
 - 30-year-old woman whoives in a large, rural house (referred to as "The Shard House") at the edge of town with her two cats, Sunny (1m) and Luna (1f).
 - She works as a senior system analyst in a technology support agency for a local city government and provides tier II support for a slew of enterprise-wide applications, including ServiceNow, Jaggaer, Workday, DocuSign, and Box. Because of budgetary constraints, she spends personal time catching up on work.
 - Em has an open relationship with [Magus](magus.md) and [Kai](kai.md), her two platonic partners. She and Magus are married for insurance purposes, and all three of them share various large assets, including some property in town and two vehicles.
