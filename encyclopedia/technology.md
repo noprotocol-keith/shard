@@ -18,4 +18,4 @@ People in high-ranking positions now routinely work alongside humanoid robots th
 ## Augments & Implants
 A very recent breakthrough allows some people to be augmented with internal wetware — hardware attached to the brain that grants additional abilities, including a more direct connection to the internet.
 
-This is cutting-edge and largely untested. The downsides and long-term consequences are still unknown. The dominant supplier of this technology is Sincline Biomedical, one of the largest military contractors in the field.
+This is cutting-edge and largely untested. The downsides and long-term consequences are still unknown. The dominant supplier of this technology is [Sincline Biomedical](organizations/sincline.md), one of the largest military contractors in the field.
